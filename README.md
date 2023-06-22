@@ -1,4 +1,4 @@
-# Map Editor - Exercise developed in the Academia de Código course
+# Map Editor - Exercise developed at <Academia de Código_>
 
 This is a Map Editor application developed as part of the Academia de Código course. 
 
